@@ -3,6 +3,12 @@
 
 ### Pipeline scRNA-seq : binarisation VS méthodes classiques
 
+# Changement de résolution : 
+# - 04 - Clustering sur données non intégrées : choix_res
+# - 06 - Clustering sur données intégrées : choix_res
+# - 07 - Expression différentielle : perform_de_analysis
+# - 07 - Expression différentielle : visualize_markers
+
 # 1. Préparation jeu de données ####
 
 custom_colors <- list()
