@@ -1,5 +1,5 @@
 ## Stage M2
 
-# Versions R et RStudio
+## Versions R et RStudio
 
-# Structure dossier project 
+## Structure dossier project 
