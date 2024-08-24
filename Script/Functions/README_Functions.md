@@ -1,3 +1,5 @@
-Dans ce dossier sont contenus les fonctions issues de la librairie R scMiko. 
-Cette librairie n a pas été mise à jour pour correspondre aux nouvelles structure de données de la dernière version de Seurat. 
-Les fonctions présentées sont modifiées de façon à être compatible avec Seurat, et sont à télécharger de manière à être sourcées dans le script.
+Ce dossier contient des fonctions modifiées issues de la librairie R scMiko.
+- Source scMiko : https://github.com/NMikolajewicz/scMiko
+Cette librairie n'est plus activement maintenue. Les fonctions présentes dans ce dossier ont été modifiées pour assurer la compatibilité avec la version 5.0.2 du package Seurat, afin de correspondre à la nouvelle structure de données de la version actuelle.
+- Source Seurat : https://github.com/satijalab/seurat
+Ces fonctions doivent être téléchargées pour pouvoir être importées dans le script.
