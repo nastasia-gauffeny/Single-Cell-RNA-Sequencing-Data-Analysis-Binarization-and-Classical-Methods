@@ -1,4 +1,4 @@
-# Stage M2
+## Stage M2
 
 # Versions R et RStudio
 
