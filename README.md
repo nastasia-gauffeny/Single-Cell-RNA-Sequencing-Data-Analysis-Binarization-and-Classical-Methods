@@ -16,7 +16,7 @@ RStudio version 2024.04.0+735
 La structure de ce dépôt GitHub reflète l'organisation des dossiers de l'environnement de travail RStudio, essentielle au bon fonctionnement du script fourni. 
 Cette organisation est basée sur celle proposée ci-dessous par Martin Chan :
 
-<img src="https://raw.githubusercontent.com/martinctc/blog/master/images/RPROJECT_2000dpi.png" width="350" height="450"/>
+<p align="center"><img src="https://raw.githubusercontent.com/martinctc/blog/master/images/RPROJECT_2000dpi.png" width="350" height="450"/>
 Source : https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner%27s-guide/ 
 
 Vous trouverez des détails sur l'utilisation de chacun de ces dossiers dans les fichiers README associés.
