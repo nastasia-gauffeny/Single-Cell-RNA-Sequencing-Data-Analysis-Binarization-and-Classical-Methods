@@ -11,7 +11,7 @@ Ce dépôt GitHub rend disponible mon travail sur l'analyse de l'utilisation des
 R version 4.3.2
 RStudio version 2024.04.0+735
 
-## Structure dossier project 
+## Structure des dossiers du projet 
 
 La structure de ce dépôt GitHub reflète l'organisation des dossiers de l'environnement de travail RStudio, essentielle au bon fonctionnement du script fourni. 
 Cette organisation est basée sur celle proposée ci-dessous par Martin Chan :
@@ -20,4 +20,4 @@ Cette organisation est basée sur celle proposée ci-dessous par Martin Chan :
 
 - Source : https://martinctc.github.io/blog/rstudio-projects-and-working-directories-a-beginner%27s-guide/ 
 
-Vous trouverez des détails sur l'utilisation de chacun de ces dossiers dans les fichiers README associés.
+Vous trouverez des détails sur l'utilisation de chacun de ces dossiers dans les fichiers README associés. Les graphiques obtenus sont fournis dans le sous-dossier /Output/Plots/Stored_plots.
